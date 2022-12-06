@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Varshaa-R
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning btech(cs)
+- 👋 Hi, I’m Varsha R  
+- ☺️ beginner in programming 
+- 🌱 I’m currently learning Computer Science Engineering
 - 📫 How to reach me ...https://www.linkedin.com/in/varsha-r-955587225
 
 <!---
